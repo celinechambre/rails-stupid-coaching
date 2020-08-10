@@ -1,0 +1,33 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+	font-family: sans-serif;
+}
+
+h1 {
+	font-size: 50px;
+	margin: 30px;
+}
+
+.container {
+	border-left: 4px solid gray;
+	padding: 15px;
+	margin: 30px;
+	width: 500px;
+}
+
+.coach {
+	background-color: #c5e6eb;
+}
+
+.form {
+	margin: 30px;
+}
+
+a {
+	color: blue;
+	margin-left: 30px;
+	text-decoration: none;
+}
